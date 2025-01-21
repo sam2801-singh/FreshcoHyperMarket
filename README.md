@@ -16,4 +16,6 @@ Identified completion rates by customer acquisition source, guiding marketing an
 
 Calculated average overall delivery time by month, delivery area, and slot, optimizing delivery operations. Explored patterns in delivery charges and delivery time by slot and area, providing insights for resource allocation and optimization.
 
-💡 Key Insights: Identified patterns suggesting higher completion rates during certain times of the day, areas with potential for increased orders, and opportunities for optimizing delivery operations and customer acquisition strategies.
+💡** Key Insights:**
+
+Identified patterns suggesting higher completion rates during certain times of the day, areas with potential for increased orders, and opportunities for optimizing delivery operations and customer acquisition strategies.
